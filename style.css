@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 5px;
+    }
+
+body{
+    text-align: center;
+    font-family: Helvetica;
+    max-width: 650px;
+    background: #ebeaeb;
+}
+
+section{
+    background: #f9f9f9;
+    border: 1px white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px #b9b9b9;
+}
+
+img.logo{
+    width: auto;
+    padding-bottom: 0;
+    max-width: 250px;
+    margin-top: 25px;   
+}
+
+h1.virsus{
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+img.zmones{
+    object-fit: scale-down;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin: 0 auto;
+    padding-left: 0;
+}
+
+h2{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h3{
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center;
+    padding: 2px
+    
+}
+img.produktai{
+    object-fit: contain;
+    height: 150px;
+    width: 150px;
+    padding: 0;
+    padding-top: 20px;
+}
+
+span.normal-text{
+    font-weight: normal;   
+}
+
+p{
+    font-weight: bold;
+    text-align: justify;
+    padding: 0;
+    font-size: 14px;
+}
+
+a{
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.virsus{
+    font-size: 30px;
+    font-weight: 900; 
+    padding: 20px; 
+}
+
+li {
+  text-align: left; 
+  font-weight: bold; 
+  margin-left: 45px;
+  margin-top: -10px
+}
+
+iframe{
+   border-style: hidden;
+   overflow: hidden;
+   max-width: 100%;
+   height: 500px;
+   width: 100%;
+   display: block; 
+}
